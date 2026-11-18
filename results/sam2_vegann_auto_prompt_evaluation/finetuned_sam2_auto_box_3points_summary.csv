@@ -1,0 +1,2 @@
+model,fine_tuning,dataset,prompt,images,prompt_failures,mean_iou_percent,mean_dice_percent,global_iou_percent,global_dice_percent
+Fine-tuned SAM2.1 Hiera Tiny,Mask decoder only,VegAnn validation,ExG60 + Pad0 + 3 positive points,755,0,84.92531170977328,90.63644877861624,88.88760223993894,94.11692581816712
