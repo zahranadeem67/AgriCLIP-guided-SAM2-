@@ -1,0 +1,2 @@
+dataset,experiment,num_images,successful_images,mean_iou,median_iou,std_iou,mean_dice,mean_precision,mean_recall,mean_confidence
+EWIS1,SAM2 + Global Ground-Truth Box,88,88,0.42474951342927836,0.47246388649247417,0.22048343694933528,0.5571927411240627,0.5413014419190726,0.7207778726797675,0.8247166457744739
