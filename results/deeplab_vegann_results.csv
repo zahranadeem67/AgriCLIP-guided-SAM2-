@@ -1,0 +1,2 @@
+Method,Training Regime,Dataset,Train Images,Validation Images,Image Size,Epochs,Parameters,Mean per Image IoU (%),Mean Dice (%),Global IoU (%),Global Dice (%),Training Time (min)
+DeepLabV3 + ResNet34,Fully supervised,VegAnn,3020,755,512,12,26007105,68.54749393748082,76.66139455037253,84.5062646934262,91.60259662059819,10.437463184197744

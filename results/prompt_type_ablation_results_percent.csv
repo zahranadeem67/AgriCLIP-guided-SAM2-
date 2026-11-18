@@ -1,0 +1,5 @@
+Prompt Type,Valid Images,Mean IoU,Mean Dice
+Box only,200,19.44%,23.86%
+Box + 1 positive point,200,24.42%,30.10%
+Box + positive + negative point,200,23.58%,29.52%
+Box + 3 positive points,200,26.00%,31.85%

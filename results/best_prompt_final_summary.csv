@@ -1,0 +1,3 @@
+Evaluation Set,Mean IoU,Mean Dice
+500 validation images,0.23505310664318585,0.2877987550786952
+Full validation split,0.22836883005788272,0.2799647568238049

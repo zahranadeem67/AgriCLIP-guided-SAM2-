@@ -1,0 +1,1 @@
+dataset,prompt,empty_images,false_positive_images,false_positive_image_rate_percent,mean_false_positive_pixels,mean_false_positive_area_percent,mean_empty_iou,mean_empty_dice

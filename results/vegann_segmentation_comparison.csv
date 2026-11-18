@@ -1,0 +1,15 @@
+Method,IoU,Dice,Precision,Recall
+"U-Net
+No Prompt",68.19,76.28,,
+"DeepLabV3
+No Prompt",68.55,76.66,,
+"SegFormer
+No Prompt",69.42,77.19,,
+"Pretrained SAM2
+AutoBox+3 Points",26.09,31.95,,
+"Fine-tuned SAM2
+AutoBox+3 Points",84.93,90.64,88.89,94.12
+"Fine-tuned SAM2
+GT Box",87.25,92.75,90.6,95.07
+"AgriCLIP+SAM2
+(Ours)",75.85,84.3,90.43,81.46

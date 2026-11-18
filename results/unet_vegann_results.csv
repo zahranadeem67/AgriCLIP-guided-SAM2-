@@ -1,0 +1,2 @@
+Method,Training Regime,Dataset,Train Images,Validation Images,Image Size,Epochs,Parameters,Mean IoU (%),Mean Dice (%),Training Time (min)
+U-Net + ResNet34,Fully supervised,VegAnn,3020,755,512,15,24436369,69.70926549131659,77.61837266932368,7.290826483567556

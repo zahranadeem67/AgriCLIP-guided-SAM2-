@@ -1,0 +1,2 @@
+Method,Training Regime,Dataset,Train Images,Validation Images,Image Size,Epochs,Parameters,Mean per Image IoU (%),Mean Dice (%),Global IoU (%),Global Dice (%),Training Time (min)
+SegFormer 80,Fully supervised,VegAnn,3020,755,512,13,3714401,69.4189848565226,77.18939783055133,85.741173853893,92.32328198952634,7.830149054527283

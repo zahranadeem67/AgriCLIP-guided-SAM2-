@@ -1,0 +1,3 @@
+Evaluation Set,Mean IoU,Mean Dice
+500 validation images,23.51%,28.78%
+Full validation split,22.84%,28.00%

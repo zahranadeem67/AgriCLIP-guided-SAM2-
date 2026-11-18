@@ -1,0 +1,5 @@
+dataset,evaluation_images,empty_images,non_empty_images
+EWI1S,10,0,10
+ReLeaf,35,0,35
+VegAnn,755,9,746
+WeedsGalore,17,0,17
