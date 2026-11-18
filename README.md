@@ -94,7 +94,13 @@ AgriCLIP-guided-SAM2-/
 │       predictions, ground-truth masks,
 │       bounding boxes, and visual comparisons
 │
+├── checkpoints/
+│       └── Domain-specific SAM2 fine-tuning
+│           checkpoints and related files Also the Vegann aligned linear aligner
+│
 └── README.md
+```
+
 ```
 
 ## 5. Technologies and Libraries
@@ -263,7 +269,6 @@ Additional analyses include bounding-box IoU, SAM2 confidence scores, candidate-
 ## 10. Reproducibility Notes and Limitations
 
 - Agricultural datasets are not distributed with this repository.
-- Large pretrained model weights and fine-tuned checkpoints are not included.
 - The AgriCLIP alignment modules and checkpoints must be obtained separately.
 - Dataset paths, checkpoint paths, and custom AgriCLIP module paths must be updated according to the local environment.
 - The exact versions of all Python dependencies were not recorded.
@@ -285,4 +290,4 @@ Potential extensions of this work include:
 
 ## Acknowledgements
 
-This work was conducted as part of a Master's thesis on semantic understanding and segmentation for agricultural images.
+This work was conducted as part of a Master's thesis on semantic understanding and segmentation for agricultural images. 
