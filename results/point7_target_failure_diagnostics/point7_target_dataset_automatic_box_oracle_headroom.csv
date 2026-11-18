@@ -1,0 +1,4 @@
+dataset,n_images,mean_native_iou_pct,mean_oracle_iou_pct,mean_oracle_headroom_pp,median_oracle_headroom_pp,native_selected_oracle_best_pct
+EWI1S,10,18.3586,19.6855,1.327,1.2872,20.0
+ReLeaf,35,77.9113,78.5325,0.6212,0.2332,34.2857
+WeedsGalore,17,57.1055,57.4622,0.3568,0.2134,35.2941

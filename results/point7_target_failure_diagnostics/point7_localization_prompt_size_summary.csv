@@ -1,0 +1,4 @@
+dataset,n,mean_auto_box_iou,median_auto_box_iou,mean_auto_prompt_area,median_auto_prompt_area,fraction_auto_box_ge_95pct,mean_segmentation_iou
+EWI1S,10,0.9722,0.9881,1.0,1.0,1.0,0.3059
+ReLeaf,35,0.9113,0.9805,1.0,1.0,1.0,0.7781
+WeedsGalore,17,0.92,0.9669,1.0,1.0,1.0,0.6006

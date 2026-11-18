@@ -1,0 +1,4 @@
+dataset,n_paired_images,GT_oracle_mean_IoU,AgriCLIP_auto_mean_IoU,Full_image_mean_IoU,oracle_minus_auto_pp,full_image_minus_auto_pp,auto_minus_full_image_pp
+EWI1S,10,0.3025,0.3059,0.3059,-0.3412,0.0,0.0
+ReLeaf,35,0.7904,0.7781,0.7781,1.2323,0.0,0.0
+WeedsGalore,17,0.5997,0.6006,0.6006,-0.0933,0.0,0.0

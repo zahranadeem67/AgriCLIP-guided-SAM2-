@@ -1,0 +1,13 @@
+dataset,component_group,n,mean_iou,mean_dice,mean_box_iou
+EWI1S,1,0,,,
+EWI1S,2-3,0,,,
+EWI1S,4-10,0,,,
+EWI1S,>10,10,0.3059,0.4391,0.9722
+ReLeaf,1,4,0.6957,0.81,0.8128
+ReLeaf,2-3,23,0.795,0.8819,0.9245
+ReLeaf,4-10,8,0.7707,0.8675,0.9226
+ReLeaf,>10,0,,,
+WeedsGalore,1,0,,,
+WeedsGalore,2-3,0,,,
+WeedsGalore,4-10,0,,,
+WeedsGalore,>10,17,0.6006,0.743,0.92

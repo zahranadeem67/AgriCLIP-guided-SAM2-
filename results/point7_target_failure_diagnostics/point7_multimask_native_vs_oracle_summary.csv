@@ -1,0 +1,10 @@
+dataset,prompt,n_images,mean_native_iou,mean_oracle_iou,mean_oracle_headroom_pp,median_oracle_headroom_pp,native_selected_oracle_best_rate,mean_native_sam2_score,mean_prompt_area_fraction,mean_native_iou_pct,mean_oracle_iou_pct,native_selected_oracle_best_pct,mean_prompt_area_pct
+EWI1S,agriclip_auto,10,0.1836,0.1969,1.327,1.2872,0.2,0.818,1.0,18.3586,19.6855,20.0,100.0
+EWI1S,full_image,10,0.1836,0.1969,1.327,1.2872,0.2,0.818,1.0,18.3586,19.6855,20.0,100.0
+EWI1S,gt_oracle,10,0.183,0.1964,1.336,1.1157,0.1,0.8174,0.9722,18.3025,19.6384,10.0,97.2243
+ReLeaf,agriclip_auto,35,0.7791,0.7853,0.6212,0.2332,0.3429,0.9532,1.0,77.9113,78.5325,34.2857,100.0
+ReLeaf,full_image,35,0.7791,0.7853,0.6212,0.2332,0.3429,0.9532,1.0,77.9113,78.5325,34.2857,100.0
+ReLeaf,gt_oracle,35,0.7946,0.8014,0.6758,0.2098,0.3143,0.9531,0.9113,79.4649,80.1407,31.4286,91.1313
+WeedsGalore,agriclip_auto,17,0.5711,0.5746,0.3568,0.2134,0.3529,0.8956,1.0,57.1055,57.4622,35.2941,100.0
+WeedsGalore,full_image,17,0.5711,0.5746,0.3568,0.2134,0.3529,0.8956,1.0,57.1055,57.4622,35.2941,100.0
+WeedsGalore,gt_oracle,17,0.575,0.5796,0.4578,0.2518,0.3529,0.8934,0.92,57.5028,57.9606,35.2941,91.9979

@@ -1,0 +1,4 @@
+dataset,n_images,mean_vegetation_coverage,median_vegetation_coverage,mean_component_count,median_component_count,mean_largest_component_fraction,mean_component_area
+EWI1S,10,0.0139,0.0069,145.9,143.5,0.1373,1532.7576
+ReLeaf,35,0.1928,0.1869,2.7714,3.0,0.6547,6254.821
+WeedsGalore,17,0.0577,0.0132,51.7059,43.0,0.1789,543.7617

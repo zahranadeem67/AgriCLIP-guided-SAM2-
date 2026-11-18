@@ -1,0 +1,559 @@
+dataset,image_id,prompt,candidate_index,sam2_predicted_iou_score,ground_truth_iou,is_native_selected,is_oracle_selected,predicted_vegetation_coverage,gt_is_empty
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,full_image,0,0.9684950113296509,0.8890639773085408,False,False,0.20103092783505155,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,full_image,1,0.9624117612838745,0.8877022653721682,False,False,0.19061381184488635,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,full_image,2,0.9729645848274231,0.8919092465753424,True,True,0.19447439934434715,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,agriclip_auto,0,0.9684950113296509,0.8890639773085408,False,False,0.20103092783505155,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,agriclip_auto,1,0.9624117612838745,0.8877022653721682,False,False,0.19061381184488635,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,agriclip_auto,2,0.9729645848274231,0.8919092465753424,True,True,0.19447439934434715,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,gt_oracle,0,0.9687245488166809,0.8884805208442718,False,False,0.20107406289091145,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,gt_oracle,1,0.9627178311347961,0.887091556130702,False,False,0.19061381184488635,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0006-001.jpg,gt_oracle,2,0.9730607867240906,0.8918022260273972,True,True,0.1944528318164172,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,full_image,0,0.9532693028450012,0.5515706806282723,False,False,0.3071259975272564,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,full_image,1,0.9409370422363281,0.5572701386975292,False,True,0.28388782735753626,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,full_image,2,0.955810010433197,0.5549381609607457,True,False,0.2950151736540407,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,agriclip_auto,0,0.9532693028450012,0.5515706806282723,False,False,0.3071259975272564,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,agriclip_auto,1,0.9409370422363281,0.5572701386975292,False,True,0.28388782735753626,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,agriclip_auto,2,0.955810010433197,0.5549381609607457,True,False,0.2950151736540407,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,gt_oracle,0,0.9526026248931885,0.5519972152119049,False,False,0.30861526357199054,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,gt_oracle,1,0.9362951517105103,0.5557887054100903,False,True,0.2866696639316624,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1292-0014-002.jpg,gt_oracle,2,0.9536923170089722,0.5543255066511918,True,False,0.2967011352141171,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,full_image,0,0.9236271381378174,0.6160984848484848,False,False,0.23072344322344324,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,full_image,1,0.9348180890083313,0.6755585955312358,False,True,0.17651098901098902,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,full_image,2,0.9444875717163086,0.646531972505728,True,False,0.20196886446886447,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,agriclip_auto,0,0.9236271381378174,0.6160984848484848,False,False,0.23072344322344324,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,agriclip_auto,1,0.9348180890083313,0.6755585955312358,False,True,0.17651098901098902,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,agriclip_auto,2,0.9444875717163086,0.646531972505728,True,False,0.20196886446886447,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,gt_oracle,0,0.9252459406852722,0.6148176148176148,False,False,0.23122710622710624,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,gt_oracle,1,0.9355095028877258,0.6747207658992478,False,True,0.17641941391941393,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0004-002.jpg,gt_oracle,2,0.9450832605361938,0.6454431960049938,True,False,0.2021062271062271,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,full_image,0,0.967930793762207,0.9106969520481459,False,False,0.2981362807925216,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,full_image,1,0.9713295698165894,0.9301115832108963,False,True,0.2910341583867364,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,full_image,2,0.9811641573905945,0.9206692062993362,True,False,0.29456170262802045,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,agriclip_auto,0,0.967930793762207,0.9106969520481459,False,False,0.2981362807925216,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,agriclip_auto,1,0.9713295698165894,0.9301115832108963,False,True,0.2910341583867364,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,agriclip_auto,2,0.9811641573905945,0.9206692062993362,True,False,0.29456170262802045,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,gt_oracle,0,0.9509410858154297,0.9156720493018177,False,False,0.2970074666353107,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,gt_oracle,1,0.9664368629455566,0.9408595665983195,False,True,0.2871421012405197,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0005-011.jpg,gt_oracle,2,0.9783344268798828,0.935715711718906,True,False,0.28955258980539716,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,full_image,0,0.8813079595565796,0.6397325160211759,False,False,0.1143830947511929,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,full_image,1,0.9047529697418213,0.6941438574156589,False,True,0.09522835719154737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,full_image,2,0.924113392829895,0.6939355653821857,True,False,0.09659168370824812,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,agriclip_auto,0,0.8813079595565796,0.6397325160211759,False,False,0.1143830947511929,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,agriclip_auto,1,0.9047529697418213,0.6941438574156589,False,True,0.09522835719154737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,agriclip_auto,2,0.924113392829895,0.6939355653821857,True,False,0.09659168370824812,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,gt_oracle,0,0.8847403526306152,0.6402897743103929,False,False,0.11445126107702795,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,gt_oracle,1,0.9050775170326233,0.6941438574156589,False,True,0.09522835719154737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1295-0011-013.jpg,gt_oracle,2,0.9238675236701965,0.6936908517350158,True,False,0.09679618268575324,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,full_image,0,0.9589672088623047,0.8792959973371057,False,False,0.229933110367893,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,full_image,1,0.8708943724632263,0.8826215644820296,False,True,0.2235328077719382,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,full_image,2,0.9785218834877014,0.8801156117789972,True,False,0.22711618092052874,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,agriclip_auto,0,0.9589672088623047,0.8792959973371057,False,False,0.229933110367893,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,agriclip_auto,1,0.8708943724632263,0.8826215644820296,False,True,0.2235328077719382,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,agriclip_auto,2,0.9785218834877014,0.8801156117789972,True,False,0.22711618092052874,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,gt_oracle,0,0.958710789680481,0.8827791272300862,False,False,0.22784280936454848,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,gt_oracle,1,0.8840204477310181,0.8930304461716838,False,False,0.21914317566491479,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1296-0007-002.jpg,gt_oracle,2,0.9805690050125122,0.894110623054288,True,True,0.2224478420130594,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,full_image,0,0.9299008846282959,0.7842404549147035,False,False,0.37241117233517007,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,full_image,1,0.9239630699157715,0.7663349771046143,False,False,0.3120685287225283,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,full_image,2,0.9400672912597656,0.7933937545638075,True,True,0.3379568053708278,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,agriclip_auto,0,0.9299008846282959,0.7842404549147035,False,False,0.37241117233517007,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,agriclip_auto,1,0.9239630699157715,0.7663349771046143,False,False,0.3120685287225283,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,agriclip_auto,2,0.9400672912597656,0.7933937545638075,True,True,0.3379568053708278,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,gt_oracle,0,0.9271475076675415,0.7860231723237598,False,False,0.37005193489138005,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,gt_oracle,1,0.9214271306991577,0.7657426268709592,False,False,0.3082209132940655,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1302-0002-003.jpg,gt_oracle,2,0.9398282170295715,0.7961758584807492,True,True,0.3328108176578631,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,full_image,0,0.9123846888542175,0.7390791027154664,False,True,0.14579800263802525,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,full_image,1,0.895799994468689,0.663560411311054,False,False,0.1121160731109855,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,full_image,2,0.9284722208976746,0.7168665316928827,True,False,0.12789711701526285,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,agriclip_auto,0,0.9123846888542175,0.7390791027154664,False,True,0.14579800263802525,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,agriclip_auto,1,0.895799994468689,0.663560411311054,False,False,0.1121160731109855,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,agriclip_auto,2,0.9284722208976746,0.7168665316928827,True,False,0.12789711701526285,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,gt_oracle,0,0.9123846888542175,0.7390791027154664,False,True,0.14579800263802525,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,gt_oracle,1,0.895799994468689,0.663560411311054,False,False,0.1121160731109855,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1304-0010-002.jpg,gt_oracle,2,0.9284722208976746,0.7168665316928827,True,False,0.12789711701526285,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,full_image,0,0.9393787384033203,0.8280274656679151,True,True,0.11101123595505619,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,full_image,1,0.9307768940925598,0.8145524790727624,False,False,0.10273408239700374,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,full_image,2,0.939045786857605,0.8233034571062741,False,False,0.1049812734082397,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,agriclip_auto,0,0.9393787384033203,0.8280274656679151,True,True,0.11101123595505619,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,agriclip_auto,1,0.9307768940925598,0.8145524790727624,False,False,0.10273408239700374,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,agriclip_auto,2,0.939045786857605,0.8233034571062741,False,False,0.1049812734082397,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,gt_oracle,0,0.9361957907676697,0.835797420572507,False,True,0.1102247191011236,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,gt_oracle,1,0.932863712310791,0.8158914728682171,False,False,0.10220973782771535,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0007-015.jpg,gt_oracle,2,0.9366709589958191,0.8255291853752406,True,False,0.1048314606741573,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,full_image,0,0.9219198822975159,0.6406003159557662,False,True,0.15132336857455342,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,full_image,1,0.9390515685081482,0.6274773562909156,False,False,0.1433758658403208,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,full_image,2,0.9429954290390015,0.637863033345285,True,False,0.14518410499453152,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,agriclip_auto,0,0.9219198822975159,0.6406003159557662,False,True,0.15132336857455342,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,agriclip_auto,1,0.9390515685081482,0.6274773562909156,False,False,0.1433758658403208,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,agriclip_auto,2,0.9429954290390015,0.637863033345285,True,False,0.14518410499453152,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,gt_oracle,0,0.9219198822975159,0.6406003159557662,False,True,0.15132336857455342,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,gt_oracle,1,0.9390515685081482,0.6274773562909156,False,False,0.1433758658403208,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-005.jpg,gt_oracle,2,0.9429954290390015,0.637863033345285,True,False,0.14518410499453152,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,full_image,0,0.9233887195587158,0.7916228363775462,False,True,0.1720991107286288,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,full_image,1,0.9459304809570312,0.7766742059199528,False,False,0.16012263339070568,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,full_image,2,0.9553112387657166,0.7785497602505137,True,False,0.16205895008605853,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,agriclip_auto,0,0.9233887195587158,0.7916228363775462,False,True,0.1720991107286288,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,agriclip_auto,1,0.9459304809570312,0.7766742059199528,False,False,0.16012263339070568,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,agriclip_auto,2,0.9553112387657166,0.7785497602505137,True,False,0.16205895008605853,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,gt_oracle,0,0.9024530649185181,0.7934137468887612,False,True,0.1720811818703385,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,gt_oracle,1,0.9498405456542969,0.7788385826771653,False,False,0.1602302065404475,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1308-0010-006.jpg,gt_oracle,2,0.9580826759338379,0.7807533843437316,True,False,0.16166451520367184,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,full_image,0,0.7214231491088867,0.5525032509752926,False,False,0.3323276799304197,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,full_image,1,0.9381827116012573,0.5970281266584114,False,True,0.303897586431833,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,full_image,2,0.9390998482704163,0.5907582110412299,True,False,0.3081104587953903,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,agriclip_auto,0,0.7214231491088867,0.5525032509752926,False,False,0.3323276799304197,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,agriclip_auto,1,0.9381827116012573,0.5970281266584114,False,True,0.303897586431833,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,agriclip_auto,2,0.9390998482704163,0.5907582110412299,True,False,0.3081104587953903,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,gt_oracle,0,0.3786204755306244,0.6674261937784822,False,False,0.2706023048488802,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,gt_oracle,1,0.9283546805381775,0.7308405101929576,False,True,0.24467275494672755,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0005-001.jpg,gt_oracle,2,0.9394059777259827,0.6970700900714359,True,False,0.2586703631224179,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,full_image,0,0.9445450901985168,0.7251957181658412,False,False,0.1802701115678215,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,full_image,1,0.9541860222816467,0.7446879150066401,False,False,0.17181444509688784,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,full_image,2,0.9571380019187927,0.7459261722647157,True,True,0.1715208455666471,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,agriclip_auto,0,0.9445450901985168,0.7251957181658412,False,False,0.1802701115678215,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,agriclip_auto,1,0.9541860222816467,0.7446879150066401,False,False,0.17181444509688784,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,agriclip_auto,2,0.9571380019187927,0.7459261722647157,True,True,0.1715208455666471,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,gt_oracle,0,0.7940136194229126,0.8335801554979637,False,False,0.15405167351732238,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,gt_oracle,1,0.9648436307907104,0.9064982684864534,False,True,0.13802113916617734,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0008-002.jpg,gt_oracle,2,0.9700556993484497,0.9010614860805127,True,False,0.14192601291837934,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,full_image,0,0.6279084086418152,0.5455651815181518,False,False,0.2648611999206227,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,full_image,1,0.9446839094161987,0.6235212745659225,False,True,0.22705774700681322,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,full_image,2,0.949942409992218,0.6030543116316455,True,False,0.23661610036822261,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,agriclip_auto,0,0.6279084086418152,0.5455651815181518,False,False,0.2648611999206227,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,agriclip_auto,1,0.9446839094161987,0.6235212745659225,False,True,0.22705774700681322,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,agriclip_auto,2,0.949942409992218,0.6030543116316455,True,False,0.23661610036822261,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,gt_oracle,0,0.830017626285553,0.7452738591581473,False,False,0.18871959958547393,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,gt_oracle,1,0.9427613019943237,0.8082191780821918,False,True,0.1596145789694177,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1319-0009-001.jpg,gt_oracle,2,0.9448646903038025,0.7962095666291995,True,False,0.1689469274358918,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,full_image,0,0.9375438690185547,0.5153347732181426,True,True,0.2705792682926829,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,full_image,1,0.9113298654556274,0.41735975933463104,False,False,0.23060344827586207,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,full_image,2,0.9357837438583374,0.46893646893646895,False,False,0.2495531959629941,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,agriclip_auto,0,0.9375438690185547,0.5153347732181426,True,True,0.2705792682926829,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,agriclip_auto,1,0.9113298654556274,0.41735975933463104,False,False,0.23060344827586207,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,agriclip_auto,2,0.9357837438583374,0.46893646893646895,False,False,0.2495531959629941,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,gt_oracle,0,0.9373044967651367,0.5160342294061717,True,True,0.2705529857022708,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,gt_oracle,1,0.9114769101142883,0.41837818696883855,False,False,0.2306822960470984,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0007-003.jpg,gt_oracle,2,0.9357053637504578,0.4690133426966292,False,False,0.24942178301093357,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,full_image,0,0.9461567997932434,0.7377300613496932,False,True,0.27275814144477084,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,full_image,1,0.9404855370521545,0.7275525186356449,False,False,0.2459253292902492,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,full_image,2,0.9565641283988953,0.7371057411790609,True,False,0.26118955115449005,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,agriclip_auto,0,0.9461567997932434,0.7377300613496932,False,True,0.27275814144477084,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,agriclip_auto,1,0.9404855370521545,0.7275525186356449,False,False,0.2459253292902492,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,agriclip_auto,2,0.9565641283988953,0.7371057411790609,True,False,0.26118955115449005,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,gt_oracle,0,0.9461567997932434,0.7377300613496932,False,True,0.27275814144477084,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,gt_oracle,1,0.9404855370521545,0.7275525186356449,False,False,0.2459253292902492,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1322-0012-002.jpg,gt_oracle,2,0.9565641283988953,0.7371057411790609,True,False,0.26118955115449005,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,full_image,0,0.9099327325820923,0.8600128232528318,False,False,0.282715240057439,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,full_image,1,0.9641802310943604,0.8722591905748882,True,True,0.27512954985328086,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,full_image,2,0.9638023376464844,0.8678070697775131,False,False,0.27790784791159395,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,agriclip_auto,0,0.9099327325820923,0.8600128232528318,False,False,0.282715240057439,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,agriclip_auto,1,0.9641802310943604,0.8722591905748882,True,True,0.27512954985328086,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,agriclip_auto,2,0.9638023376464844,0.8678070697775131,False,False,0.27790784791159395,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,gt_oracle,0,0.9099327325820923,0.8600128232528318,False,False,0.282715240057439,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,gt_oracle,1,0.9641802310943604,0.8722591905748882,True,True,0.27512954985328086,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0004-001.jpg,gt_oracle,2,0.9638023376464844,0.8678070697775131,False,False,0.27790784791159395,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,full_image,0,0.9556992650032043,0.899554234769688,True,True,0.2747410358565737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,full_image,1,0.9412783980369568,0.8874795769197695,False,False,0.26438247011952193,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,full_image,2,0.9513980746269226,0.8937462571648559,False,False,0.2689549494330371,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,agriclip_auto,0,0.9556992650032043,0.899554234769688,True,True,0.2747410358565737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,agriclip_auto,1,0.9412783980369568,0.8874795769197695,False,False,0.26438247011952193,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,agriclip_auto,2,0.9513980746269226,0.8937462571648559,False,False,0.2689549494330371,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,gt_oracle,0,0.9556992650032043,0.899554234769688,True,True,0.2747410358565737,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,gt_oracle,1,0.9412783980369568,0.8874795769197695,False,False,0.26438247011952193,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0005-000.jpg,gt_oracle,2,0.9513980746269226,0.8937462571648559,False,False,0.2689549494330371,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,full_image,0,0.9648206233978271,0.8906654126498942,True,True,0.2614858337424576,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,full_image,1,0.9559085369110107,0.8813822790864523,False,False,0.25046323424607636,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,full_image,2,0.9631879329681396,0.8889415669076686,False,False,0.25689308395229876,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,agriclip_auto,0,0.9648206233978271,0.8906654126498942,True,True,0.2614858337424576,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,agriclip_auto,1,0.9559085369110107,0.8813822790864523,False,False,0.25046323424607636,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,agriclip_auto,2,0.9631879329681396,0.8889415669076686,False,False,0.25689308395229876,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,gt_oracle,0,0.965132474899292,0.8907306177628872,True,True,0.2615333449471834,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,gt_oracle,1,0.9565862417221069,0.8818921181676833,False,False,0.2504790713143183,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0007-010.jpg,gt_oracle,2,0.9632524251937866,0.8889547286086751,False,False,0.2569564322252665,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,full_image,0,0.8846049904823303,0.837014982712255,False,False,0.23773128580820888,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,full_image,1,0.9596267342567444,0.8938860103626943,False,True,0.21774913121066966,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,full_image,2,0.9679036736488342,0.8846719772692678,True,False,0.22471118624964778,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,agriclip_auto,0,0.8846049904823303,0.837014982712255,False,False,0.23773128580820888,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,agriclip_auto,1,0.9596267342567444,0.8938860103626943,False,True,0.21774913121066966,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,agriclip_auto,2,0.9679036736488342,0.8846719772692678,True,False,0.22471118624964778,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,gt_oracle,0,0.8659643530845642,0.8359206036430048,False,False,0.2370973044049967,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,gt_oracle,1,0.9606633186340332,0.8946385979466971,False,True,0.2176082464544003,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1324-0010-007.jpg,gt_oracle,2,0.9678695797920227,0.887463734921362,True,False,0.22398328167558937,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,full_image,0,0.883449375629425,0.677733860342556,False,False,0.20373303167420814,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,full_image,1,0.8846054077148438,0.7050173010380623,False,True,0.17805429864253394,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,full_image,2,0.884975254535675,0.690106128038343,True,False,0.19264705882352942,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,agriclip_auto,0,0.883449375629425,0.677733860342556,False,False,0.20373303167420814,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,agriclip_auto,1,0.8846054077148438,0.7050173010380623,False,True,0.17805429864253394,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,agriclip_auto,2,0.884975254535675,0.690106128038343,True,False,0.19264705882352942,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,gt_oracle,0,0.8844193816184998,0.6778041386582312,False,False,0.20360576923076923,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,gt_oracle,1,0.8831617832183838,0.7049085520133015,False,True,0.17709276018099548,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1327-0004-002.jpg,gt_oracle,2,0.884540855884552,0.690530069258726,True,False,0.19220871040723983,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,full_image,0,0.9340483546257019,0.643536503683858,False,True,0.17199986790832839,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,full_image,1,0.9225807785987854,0.6185982549317147,False,False,0.14992404728881845,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,full_image,2,0.9366588592529297,0.633339527968779,True,False,0.15836965854302887,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,agriclip_auto,0,0.9340483546257019,0.643536503683858,False,True,0.17199986790832839,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,agriclip_auto,1,0.9225807785987854,0.6185982549317147,False,False,0.14992404728881845,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,agriclip_auto,2,0.9366588592529297,0.633339527968779,True,False,0.15836965854302887,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,gt_oracle,0,0.9026671648025513,0.6483457584173854,False,False,0.14741430552803647,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,gt_oracle,1,0.8997918963432312,0.6655493872420656,False,False,0.13067994187966447,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1335-0002-003.jpg,gt_oracle,2,0.9173679351806641,0.673532702675211,True,True,0.13978601149197542,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,full_image,0,0.9209911227226257,0.7546497823506134,False,False,0.12821774061321528,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,full_image,1,0.9189322590827942,0.7674715909090909,False,False,0.11256854493450656,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,full_image,2,0.944943368434906,0.7705488994148788,True,True,0.11741451239729646,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,agriclip_auto,0,0.9209911227226257,0.7546497823506134,False,False,0.12821774061321528,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,agriclip_auto,1,0.9189322590827942,0.7674715909090909,False,False,0.11256854493450656,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,agriclip_auto,2,0.944943368434906,0.7705488994148788,True,True,0.11741451239729646,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,gt_oracle,0,0.9209911227226257,0.7546497823506134,False,False,0.12821774061321528,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,gt_oracle,1,0.9189322590827942,0.7674715909090909,False,False,0.11256854493450656,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0002-004.jpg,gt_oracle,2,0.944943368434906,0.7705488994148788,True,True,0.11741451239729646,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,full_image,0,0.9110080599784851,0.7464951582598641,False,False,0.17784561008916377,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,full_image,1,0.9333596229553223,0.7706830391404451,False,True,0.16317241009987415,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,full_image,2,0.9528070688247681,0.7671419902912622,True,False,0.1661980881998554,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,agriclip_auto,0,0.9110080599784851,0.7464951582598641,False,False,0.17784561008916377,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,agriclip_auto,1,0.9333596229553223,0.7706830391404451,False,True,0.16317241009987415,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,agriclip_auto,2,0.9528070688247681,0.7671419902912622,True,False,0.1661980881998554,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,gt_oracle,0,0.8900118470191956,0.7571637426900585,False,False,0.17610517578386484,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,gt_oracle,1,0.926453173160553,0.7877783041212696,False,True,0.1574423648485822,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-006.jpg,gt_oracle,2,0.9500104188919067,0.7804765564950038,True,False,0.16440410206977804,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,full_image,0,0.9349388480186462,0.8152456239412761,False,False,0.17686359804768398,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,full_image,1,0.9203774333000183,0.8108629560336763,False,False,0.1646356058319718,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,full_image,2,0.9387857913970947,0.8162911611785095,True,True,0.1694955823125995,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,agriclip_auto,0,0.9349388480186462,0.8152456239412761,False,False,0.17686359804768398,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,agriclip_auto,1,0.9203774333000183,0.8108629560336763,False,False,0.1646356058319718,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,agriclip_auto,2,0.9387857913970947,0.8162911611785095,True,True,0.1694955823125995,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,gt_oracle,0,0.9393265843391418,0.8149257104118411,False,False,0.1766346484061983,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,gt_oracle,1,0.928502082824707,0.8089499853758408,False,False,0.16412567253957186,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-007.jpg,gt_oracle,2,0.9461379051208496,0.816437406080222,True,True,0.16937070068997095,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,full_image,0,0.9634798765182495,0.8869254177566601,False,False,0.2111536725648355,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,full_image,1,0.9642360806465149,0.8981786262892254,False,True,0.20254365763618057,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,full_image,2,0.9750182032585144,0.896158235070369,True,False,0.2059575748457951,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,agriclip_auto,0,0.9634798765182495,0.8869254177566601,False,False,0.2111536725648355,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,agriclip_auto,1,0.9642360806465149,0.8981786262892254,False,True,0.20254365763618057,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,agriclip_auto,2,0.9750182032585144,0.896158235070369,True,False,0.2059575748457951,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,gt_oracle,0,0.9633069634437561,0.8878140032068412,False,False,0.21088750274849266,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,gt_oracle,1,0.9649956822395325,0.8982939272587636,False,True,0.2025899480390228,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0004-010.jpg,gt_oracle,2,0.9753206372261047,0.8961956521739131,True,False,0.20589971184224232,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,full_image,0,0.9407937526702881,0.8263677130044843,False,False,0.19320812966297915,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,full_image,1,0.9092675447463989,0.8520465640255351,False,True,0.18152082031680694,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,full_image,2,0.9435182809829712,0.8472842261904762,True,False,0.18398324083942813,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,agriclip_auto,0,0.9407937526702881,0.8263677130044843,False,False,0.19320812966297915,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,agriclip_auto,1,0.9092675447463989,0.8520465640255351,False,True,0.18152082031680694,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,agriclip_auto,2,0.9435182809829712,0.8472842261904762,True,False,0.18398324083942813,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,gt_oracle,0,0.9409310221672058,0.832520325203252,False,False,0.19177478040354295,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,gt_oracle,1,0.915898859500885,0.8501683501683501,False,True,0.18251313903487817,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0005-010.jpg,gt_oracle,2,0.9475501179695129,0.8479597540525433,True,False,0.18350545775294938,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,full_image,0,0.9233005046844482,0.8589207278811964,False,False,0.22301438398999374,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,full_image,1,0.9454906582832336,0.8633252606086133,False,True,0.2210381488430269,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,full_image,2,0.9635486006736755,0.8629602278721384,True,False,0.2201125703564728,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,agriclip_auto,0,0.9233005046844482,0.8589207278811964,False,False,0.22301438398999374,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,agriclip_auto,1,0.9454906582832336,0.8633252606086133,False,True,0.2210381488430269,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,agriclip_auto,2,0.9635486006736755,0.8629602278721384,True,False,0.2201125703564728,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,gt_oracle,0,0.9255557656288147,0.858561572234999,False,False,0.22311444652908066,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,gt_oracle,1,0.9449778199195862,0.8639620653319283,False,True,0.22086303939962476,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-011.jpg,gt_oracle,2,0.9629970788955688,0.8628113127902068,True,False,0.21993746091307068,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,full_image,0,0.9505907893180847,0.7831402831402832,False,False,0.15543769364070786,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,full_image,1,0.9619804620742798,0.8307017543859649,False,False,0.1383973113480019,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,full_image,2,0.9719029664993286,0.8308977035490606,True,True,0.14073412802604632,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,agriclip_auto,0,0.9505907893180847,0.7831402831402832,False,False,0.15543769364070786,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,agriclip_auto,1,0.9619804620742798,0.8307017543859649,False,False,0.1383973113480019,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,agriclip_auto,2,0.9719029664993286,0.8308977035490606,True,True,0.14073412802604632,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,gt_oracle,0,0.9499561786651611,0.7822866344605475,False,False,0.15501759176600324,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,gt_oracle,1,0.962186872959137,0.8320126782884311,False,True,0.1375833639657617,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-012.jpg,gt_oracle,2,0.9725478887557983,0.8302576601671309,True,False,0.14044530798718688,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,full_image,0,0.8868522644042969,0.8059905862216517,False,False,0.13253655140403806,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,full_image,1,0.945158839225769,0.8747064900911055,False,True,0.11927361336737062,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,full_image,2,0.9478155970573425,0.8683327116747482,True,False,0.12015548851241588,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,agriclip_auto,0,0.8868522644042969,0.8059905862216517,False,False,0.13253655140403806,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,agriclip_auto,1,0.945158839225769,0.8747064900911055,False,True,0.11927361336737062,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,agriclip_auto,2,0.9478155970573425,0.8683327116747482,True,False,0.12015548851241588,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,gt_oracle,0,0.888018012046814,0.8056101941332421,False,False,0.13265258760733348,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,gt_oracle,1,0.9464735388755798,0.8744836650394292,False,True,0.11935483870967742,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0007-013.jpg,gt_oracle,2,0.9489690065383911,0.8672690014903129,True,False,0.12028312833604085,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,full_image,0,0.9302515983581543,0.8220669817135813,False,False,0.2140256301130184,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,full_image,1,0.9582502245903015,0.82586536419622,False,False,0.20125786163522014,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,full_image,2,0.9682143330574036,0.8266832917705735,True,True,0.21033716366387667,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,agriclip_auto,0,0.9302515983581543,0.8220669817135813,False,False,0.2140256301130184,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,agriclip_auto,1,0.9582502245903015,0.82586536419622,False,False,0.20125786163522014,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,agriclip_auto,2,0.9682143330574036,0.8266832917705735,True,True,0.21033716366387667,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,gt_oracle,0,0.9554818272590637,0.8245469522240527,False,False,0.21364732586182436,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,gt_oracle,1,0.9601425528526306,0.8294921041399914,False,True,0.2000756608502388,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1339-0008-002.jpg,gt_oracle,2,0.9686031341552734,0.8294314381270903,True,False,0.20854021847070506,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,full_image,0,0.964469313621521,0.7890480706833725,False,True,0.37442428611478235,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,full_image,1,0.947018563747406,0.7448500180701121,False,False,0.33349353197965476,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,full_image,2,0.9706120491027832,0.764678710737015,True,False,0.34524810765349034,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,agriclip_auto,0,0.964469313621521,0.7890480706833725,False,True,0.37442428611478235,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,agriclip_auto,1,0.947018563747406,0.7448500180701121,False,False,0.33349353197965476,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,agriclip_auto,2,0.9706120491027832,0.764678710737015,True,False,0.34524810765349034,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,gt_oracle,0,0.9642625451087952,0.7891295667797964,False,True,0.37456445993031356,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,gt_oracle,1,0.9473154544830322,0.7445006712795621,False,False,0.3332532340101726,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1350-0004-000.jpg,gt_oracle,2,0.9705835580825806,0.7645790554414784,True,False,0.34506788417637874,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,full_image,0,0.9579741358757019,0.8500198124422137,False,False,0.2534965034965035,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,full_image,1,0.9576357007026672,0.8570247933884297,False,True,0.23497209860846224,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,full_image,2,0.9717763066291809,0.8568129330254042,True,False,0.24154128699583244,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,agriclip_auto,0,0.9579741358757019,0.8500198124422137,False,False,0.2534965034965035,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,agriclip_auto,1,0.9576357007026672,0.8570247933884297,False,True,0.23497209860846224,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,agriclip_auto,2,0.9717763066291809,0.8568129330254042,True,False,0.24154128699583244,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,gt_oracle,0,0.9577922821044922,0.8500198124422137,False,False,0.2534965034965035,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,gt_oracle,1,0.9573476910591125,0.8569559228650138,False,False,0.23495443949989406,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0004-000.jpg,gt_oracle,2,0.971640408039093,0.8570166496772001,True,True,0.24136469591015045,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,full_image,0,0.9596859216690063,0.8178780284043442,True,False,0.30103244837758114,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,full_image,1,0.9353334307670593,0.8467630421118794,False,True,0.2810840707964602,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,full_image,2,0.9493165612220764,0.8412757508066517,False,False,0.2864675516224189,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,agriclip_auto,0,0.9596859216690063,0.8178780284043442,True,False,0.30103244837758114,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,agriclip_auto,1,0.9353334307670593,0.8467630421118794,False,True,0.2810840707964602,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,agriclip_auto,2,0.9493165612220764,0.8412757508066517,False,False,0.2864675516224189,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,gt_oracle,0,0.9596859216690063,0.8178780284043442,True,False,0.30103244837758114,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,gt_oracle,1,0.9353334307670593,0.8467630421118794,False,True,0.2810840707964602,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1360-0006-012.jpg,gt_oracle,2,0.9493165612220764,0.8412757508066517,False,False,0.2864675516224189,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,full_image,0,0.9708856344223022,0.9341045787529564,False,False,0.28586133069828723,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,full_image,1,0.9522011280059814,0.9413972494239631,False,True,0.2790524127140975,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,full_image,2,0.9760381579399109,0.9377281549940346,True,False,0.2840368700592885,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,agriclip_auto,0,0.9708856344223022,0.9341045787529564,False,False,0.28586133069828723,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,agriclip_auto,1,0.9522011280059814,0.9413972494239631,False,True,0.2790524127140975,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,agriclip_auto,2,0.9760381579399109,0.9377281549940346,True,False,0.2840368700592885,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,gt_oracle,0,0.9722156524658203,0.9343642002658397,False,False,0.2857326663372859,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,gt_oracle,1,0.9538721442222595,0.9417373453622171,False,True,0.2789597743741766,False
+ReLeaf,/home/zahranadeem/thesis/CropAndWeedAndLeaf/images/vwg-1361-0007-026.jpg,gt_oracle,2,0.9766875505447388,0.9380349683361093,True,False,0.28392107213438733,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,full_image,0,0.9361616969108582,0.7331414018381132,True,True,0.5026222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,full_image,1,0.8956543207168579,0.669133141532037,False,False,0.42286666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,full_image,2,0.935606837272644,0.7081238736602485,False,False,0.45964166666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,agriclip_auto,0,0.9361616969108582,0.7331414018381132,True,True,0.5026222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,agriclip_auto,1,0.8956543207168579,0.669133141532037,False,False,0.42286666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,agriclip_auto,2,0.935606837272644,0.7081238736602485,False,False,0.45964166666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,gt_oracle,0,0.9361616969108582,0.7331414018381132,True,True,0.5026222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,gt_oracle,1,0.8956543207168579,0.669133141532037,False,False,0.42286666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-15_0996.png,gt_oracle,2,0.935606837272644,0.7081238736602485,False,False,0.45964166666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,full_image,0,0.6656978726387024,0.8189931828108088,False,False,0.13510833333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,full_image,1,0.9357874989509583,0.8223581693311017,False,True,0.13215833333333332,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,full_image,2,0.9525306820869446,0.8208564828073391,True,False,0.13394444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,agriclip_auto,0,0.6656978726387024,0.8189931828108088,False,False,0.13510833333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,agriclip_auto,1,0.9357874989509583,0.8223581693311017,False,True,0.13215833333333332,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,agriclip_auto,2,0.9525306820869446,0.8208564828073391,True,False,0.13394444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,gt_oracle,0,0.6567920446395874,0.8189980827274626,False,False,0.1352,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,gt_oracle,1,0.9365530014038086,0.8220650147061651,False,True,0.13230833333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0760.png,gt_oracle,2,0.9526911973953247,0.8207907189742024,True,False,0.13409166666666666,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,full_image,0,0.4784946143627167,0.47903538536112455,False,False,0.020677777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,full_image,1,0.8672710657119751,0.5425439861551774,False,True,0.01648611111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,full_image,2,0.8878487348556519,0.5422822569297875,True,False,0.017222222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,agriclip_auto,0,0.4784946143627167,0.47903538536112455,False,False,0.020677777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,agriclip_auto,1,0.8672710657119751,0.5425439861551774,False,True,0.01648611111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,agriclip_auto,2,0.8878487348556519,0.5422822569297875,True,False,0.017222222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,gt_oracle,0,0.412503719329834,0.5432840418977203,False,False,0.014605555555555556,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,gt_oracle,1,0.8324582576751709,0.5607400130975769,False,False,0.013255555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0155.png,gt_oracle,2,0.8579859733581543,0.5692780835221755,True,True,0.013705555555555556,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,full_image,0,0.31492510437965393,0.4285248041775457,False,False,0.013494444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,full_image,1,0.8818570375442505,0.43658698539176627,False,True,0.013216666666666666,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,full_image,2,0.8983715176582336,0.4344526961575718,True,False,0.013858333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,agriclip_auto,0,0.31492510437965393,0.4285248041775457,False,False,0.013494444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,agriclip_auto,1,0.8818570375442505,0.43658698539176627,False,True,0.013216666666666666,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,agriclip_auto,2,0.8983715176582336,0.4344526961575718,True,False,0.013858333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,gt_oracle,0,0.30264827609062195,0.42231326820044124,False,False,0.01425,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,gt_oracle,1,0.8824690580368042,0.4323624595469256,False,True,0.013766666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0114.png,gt_oracle,2,0.8995656371116638,0.4293160638129837,True,False,0.014313888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,full_image,0,0.6220927834510803,0.40554885404101326,False,False,0.0076972222222222225,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,full_image,1,0.8514936566352844,0.4135514018691589,False,True,0.006638888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,full_image,2,0.8735048770904541,0.40596273291925467,True,False,0.007233333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,agriclip_auto,0,0.6220927834510803,0.40554885404101326,False,False,0.0076972222222222225,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,agriclip_auto,1,0.8514936566352844,0.4135514018691589,False,True,0.006638888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,agriclip_auto,2,0.8735048770904541,0.40596273291925467,True,False,0.007233333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,gt_oracle,0,0.6228293180465698,0.40530759951749096,False,False,0.007694444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,gt_oracle,1,0.8516041040420532,0.41330907200415906,False,True,0.0066166666666666665,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0500.png,gt_oracle,2,0.8735959529876709,0.40606361829025844,True,False,0.007230555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,full_image,0,0.5963566303253174,0.5411326994625878,False,False,0.005644444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,full_image,1,0.8557800650596619,0.5557949159844895,False,True,0.005319444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,full_image,2,0.8730744123458862,0.5519832985386222,True,False,0.005613888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,agriclip_auto,0,0.5963566303253174,0.5411326994625878,False,False,0.005644444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,agriclip_auto,1,0.8557800650596619,0.5557949159844895,False,True,0.005319444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,agriclip_auto,2,0.8730744123458862,0.5519832985386222,True,False,0.005613888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,gt_oracle,0,0.6146041750907898,0.5440742302825812,False,False,0.005458333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,gt_oracle,1,0.8581107258796692,0.5521317011397214,False,True,0.0055027777777777774,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0183.png,gt_oracle,2,0.874327540397644,0.541276941846279,True,False,0.005816666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,full_image,0,0.2524549961090088,0.4805993084902036,False,False,0.006522222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,full_image,1,0.869530200958252,0.5134364820846905,True,True,0.006141666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,full_image,2,0.8685814142227173,0.5029916234543279,False,False,0.0062833333333333335,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,agriclip_auto,0,0.2524549961090088,0.4805993084902036,False,False,0.006522222222222222,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,agriclip_auto,1,0.869530200958252,0.5134364820846905,True,True,0.006141666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,agriclip_auto,2,0.8685814142227173,0.5029916234543279,False,False,0.0062833333333333335,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,gt_oracle,0,0.12442990392446518,0.5328859060402684,False,False,0.005333333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,gt_oracle,1,0.869526743888855,0.5517998244073749,False,True,0.005636111111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0189.png,gt_oracle,2,0.8740096092224121,0.5282072712076891,True,False,0.005975,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,full_image,0,0.6180070042610168,0.7740289009677846,False,False,0.075975,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,full_image,1,0.9208879470825195,0.7739995132297208,False,False,0.06901944444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,full_image,2,0.9323243498802185,0.7767106842737095,True,True,0.07118055555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,agriclip_auto,0,0.6180070042610168,0.7740289009677846,False,False,0.075975,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,agriclip_auto,1,0.9208879470825195,0.7739995132297208,False,False,0.06901944444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,agriclip_auto,2,0.9323243498802185,0.7767106842737095,True,True,0.07118055555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,gt_oracle,0,0.6211186051368713,0.7738758456028652,False,False,0.07588333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,gt_oracle,1,0.9205538630485535,0.7734372282325113,False,False,0.06890555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_0353.png,gt_oracle,2,0.9327789545059204,0.7765804104605669,True,True,0.07108611111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,full_image,0,0.6108095645904541,0.500677048070413,False,False,0.011975,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,full_image,1,0.8680548667907715,0.514564863397865,False,False,0.0106,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,full_image,2,0.8806477785110474,0.5188143414980476,True,True,0.011116666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,agriclip_auto,0,0.6108095645904541,0.500677048070413,False,False,0.011975,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,agriclip_auto,1,0.8680548667907715,0.514564863397865,False,False,0.0106,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,agriclip_auto,2,0.8806477785110474,0.5188143414980476,True,True,0.011116666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,gt_oracle,0,0.6083756685256958,0.49882154882154883,False,False,0.012077777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,gt_oracle,1,0.8692368268966675,0.515358361774744,False,False,0.010780555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0486.png,gt_oracle,2,0.8813536167144775,0.5159246876649657,True,True,0.011277777777777777,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,full_image,0,0.8030053377151489,0.7396558445174584,False,False,0.08853055555555556,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,full_image,1,0.9262488484382629,0.7377159393177632,False,False,0.08011666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,full_image,2,0.928100049495697,0.7411496771217713,True,True,0.08275,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,agriclip_auto,0,0.8030053377151489,0.7396558445174584,False,False,0.08853055555555556,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,agriclip_auto,1,0.9262488484382629,0.7377159393177632,False,False,0.08011666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,agriclip_auto,2,0.928100049495697,0.7411496771217713,True,True,0.08275,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,gt_oracle,0,0.8030053377151489,0.7396558445174584,False,False,0.08853055555555556,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,gt_oracle,1,0.9262488484382629,0.7377159393177632,False,False,0.08011666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-06-06_1039.png,gt_oracle,2,0.928100049495697,0.7411496771217713,True,True,0.08275,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,full_image,0,0.6545515060424805,0.5297529538131042,False,False,0.01055,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,full_image,1,0.8644349575042725,0.5485515643105446,False,True,0.009330555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,full_image,2,0.8798539638519287,0.5358482241341275,True,False,0.010108333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,agriclip_auto,0,0.6545515060424805,0.5297529538131042,False,False,0.01055,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,agriclip_auto,1,0.8644349575042725,0.5485515643105446,False,True,0.009330555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,agriclip_auto,2,0.8798539638519287,0.5358482241341275,True,False,0.010108333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,gt_oracle,0,0.6546688079833984,0.5267078101723771,False,False,0.010697222222222223,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,gt_oracle,1,0.8650164604187012,0.5446408078953409,False,True,0.00946388888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0672.png,gt_oracle,2,0.881669282913208,0.5316317626527051,True,False,0.010272222222222223,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,full_image,0,0.4453132450580597,0.45276742948376797,False,True,0.012758333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,full_image,1,0.8739465475082397,0.4428532084825117,False,False,0.011533333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,full_image,2,0.8841157555580139,0.44981213097155126,True,False,0.012438888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,agriclip_auto,0,0.4453132450580597,0.45276742948376797,False,True,0.012758333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,agriclip_auto,1,0.8739465475082397,0.4428532084825117,False,False,0.011533333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,agriclip_auto,2,0.8841157555580139,0.44981213097155126,True,False,0.012438888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,gt_oracle,0,0.44681316614151,0.4523302263648469,False,True,0.012725,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,gt_oracle,1,0.8738865256309509,0.44276071084171376,False,False,0.011519444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0786.png,gt_oracle,2,0.884045422077179,0.44981213097155126,True,False,0.012438888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,full_image,0,0.6915817260742188,0.6382073605065295,False,False,0.023902777777777776,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,full_image,1,0.8837222456932068,0.6401054339010543,False,False,0.022844444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,full_image,2,0.905634880065918,0.6428860964734495,True,True,0.02293888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,agriclip_auto,0,0.6915817260742188,0.6382073605065295,False,False,0.023902777777777776,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,agriclip_auto,1,0.8837222456932068,0.6401054339010543,False,False,0.022844444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,agriclip_auto,2,0.905634880065918,0.6428860964734495,True,True,0.02293888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,gt_oracle,0,0.6915817260742188,0.6382073605065295,False,False,0.023902777777777776,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,gt_oracle,1,0.8837222456932068,0.6401054339010543,False,False,0.022844444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0147.png,gt_oracle,2,0.905634880065918,0.6428860964734495,True,True,0.02293888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,full_image,0,0.3994629383087158,0.6732564524986271,False,True,0.012475,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,full_image,1,0.8730430603027344,0.6602724991036214,False,False,0.012808333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,full_image,2,0.8833014369010925,0.6701799018717064,True,False,0.012613888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,agriclip_auto,0,0.3994629383087158,0.6732564524986271,False,True,0.012475,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,agriclip_auto,1,0.8730430603027344,0.6602724991036214,False,False,0.012808333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,agriclip_auto,2,0.8833014369010925,0.6701799018717064,True,False,0.012613888888888888,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,gt_oracle,0,0.5334458351135254,0.6866421805528706,False,True,0.011319444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,gt_oracle,1,0.8498099446296692,0.6695652173913044,False,False,0.011083333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0340.png,gt_oracle,2,0.8670570850372314,0.6855551286976566,True,False,0.011458333333333333,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,full_image,0,0.6104171872138977,0.5079520089285714,False,False,0.013925,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,full_image,1,0.8602408766746521,0.5093228655544652,False,True,0.013805555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,full_image,2,0.876656174659729,0.5053162486368593,True,False,0.014575,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,agriclip_auto,0,0.6104171872138977,0.5079520089285714,False,False,0.013925,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,agriclip_auto,1,0.8602408766746521,0.5093228655544652,False,True,0.013805555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,agriclip_auto,2,0.876656174659729,0.5053162486368593,True,False,0.014575,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,gt_oracle,0,0.6066359877586365,0.5082996233784349,False,False,0.013936111111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,gt_oracle,1,0.8605712056159973,0.5097298054038919,False,True,0.013855555555555555,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-30_0454.png,gt_oracle,2,0.8764283061027527,0.5057173972229785,True,False,0.014625,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,full_image,0,0.5332002639770508,0.45197132616487457,False,False,0.006438888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,full_image,1,0.8677887916564941,0.4652701212789416,False,True,0.006261111111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,full_image,2,0.8803675770759583,0.44882166725290185,True,False,0.006627777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,agriclip_auto,0,0.5332002639770508,0.45197132616487457,False,False,0.006438888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,agriclip_auto,1,0.8677887916564941,0.4652701212789416,False,True,0.006261111111111111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,agriclip_auto,2,0.8803675770759583,0.44882166725290185,True,False,0.006627777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,gt_oracle,0,0.4974382817745209,0.47566909975669097,False,False,0.0052944444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,gt_oracle,1,0.8673416972160339,0.48720975993703264,False,True,0.005683333333333334,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0170.png,gt_oracle,2,0.8795130252838135,0.48148148148148145,True,False,0.005852777777777778,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,full_image,0,0.5865040421485901,0.40884590995561193,False,False,0.01083888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,full_image,1,0.8696511387825012,0.42243675099866845,False,True,0.009891666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,full_image,2,0.8825333118438721,0.41627568354635175,True,False,0.010469444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,agriclip_auto,0,0.5865040421485901,0.40884590995561193,False,False,0.01083888888888889,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,agriclip_auto,1,0.8696511387825012,0.42243675099866845,False,True,0.009891666666666667,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,agriclip_auto,2,0.8825333118438721,0.41627568354635175,True,False,0.010469444444444444,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,gt_oracle,0,0.5808663964271545,0.4061374667292939,False,False,0.0111,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,gt_oracle,1,0.8685174584388733,0.4221163325665462,False,True,0.010194444444444445,False
+WeedsGalore,/home/zahranadeem/thesis/WeedsGalore_dataset/data/2023-05-25_0685.png,gt_oracle,2,0.8833431601524353,0.4166666666666667,True,False,0.010755555555555556,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",full_image,0,0.08645235002040863,0.3017999231291349,False,True,0.02082054566955738,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",full_image,1,0.8294654488563538,0.28212264539742166,False,False,0.017559590848390264,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",full_image,2,0.8377884030342102,0.2957262747777275,True,False,0.023139621176773446,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",agriclip_auto,0,0.08645235002040863,0.3017999231291349,False,True,0.02082054566955738,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",agriclip_auto,1,0.8294654488563538,0.28212264539742166,False,False,0.017559590848390264,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",agriclip_auto,2,0.8377884030342102,0.2957262747777275,True,False,0.023139621176773446,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",gt_oracle,0,0.08645235002040863,0.3017999231291349,False,True,0.02082054566955738,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",gt_oracle,1,0.8294654488563538,0.28212264539742166,False,False,0.017559590848390264,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_012.png",gt_oracle,2,0.8377884030342102,0.2957262747777275,True,False,0.023139621176773446,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",full_image,0,0.8469277024269104,0.25777795836687634,False,True,0.04545642406641674,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",full_image,1,0.7907248139381409,0.18933778583496522,False,False,0.025044446768458482,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",full_image,2,0.8530642986297607,0.2450316126481303,True,False,0.03597734622624813,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",agriclip_auto,0,0.8469277024269104,0.25777795836687634,False,True,0.04545642406641674,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",agriclip_auto,1,0.7907248139381409,0.18933778583496522,False,False,0.025044446768458482,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",agriclip_auto,2,0.8530642986297607,0.2450316126481303,True,False,0.03597734622624813,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",gt_oracle,0,0.8469277024269104,0.25777795836687634,False,True,0.04545642406641674,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",gt_oracle,1,0.7907248139381409,0.18933778583496522,False,False,0.025044446768458482,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210813_C3_1_005.png",gt_oracle,2,0.8530642986297607,0.2450316126481303,True,False,0.03597734622624813,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",full_image,0,0.7639548778533936,0.1954011836615892,False,False,0.007292286776181359,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",full_image,1,0.7446898818016052,0.18587236824582007,False,False,0.004752133847119206,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",full_image,2,0.8276540040969849,0.19568558075673964,True,True,0.006286754058532975,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",agriclip_auto,0,0.7639548778533936,0.1954011836615892,False,False,0.007292286776181359,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",agriclip_auto,1,0.7446898818016052,0.18587236824582007,False,False,0.004752133847119206,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",agriclip_auto,2,0.8276540040969849,0.19568558075673964,True,True,0.006286754058532975,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",gt_oracle,0,0.7769502997398376,0.1973269938519795,False,True,0.00622189395523949,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",gt_oracle,1,0.7377569079399109,0.17440550396330692,False,False,0.0037597742667288786,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220511_Maize_024.png",gt_oracle,2,0.8260956406593323,0.19503040312288866,True,False,0.0053076178945505445,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",full_image,0,0.5009017586708069,0.03729336980632216,False,False,0.001248381011375155,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",full_image,1,0.6971027851104736,0.08130617371168414,False,True,0.0015204917703087542,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",full_image,2,0.7465766072273254,0.06448934186715133,True,False,0.0014263692018084404,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",agriclip_auto,0,0.5009017586708069,0.03729336980632216,False,False,0.001248381011375155,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",agriclip_auto,1,0.6971027851104736,0.08130617371168414,False,True,0.0015204917703087542,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",agriclip_auto,2,0.7465766072273254,0.06448934186715133,True,False,0.0014263692018084404,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",gt_oracle,0,0.5065518021583557,0.037771785988619085,False,False,0.0012513977603655496,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",gt_oracle,1,0.6970760822296143,0.08166695465041392,False,True,0.0015188325583640372,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_007.png",gt_oracle,2,0.7467841506004333,0.06476943552806702,True,False,0.0014325032580889095,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",full_image,0,0.8111301064491272,0.21222171259217443,False,False,0.012332017360384856,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",full_image,1,0.7983115315437317,0.25403554279927065,False,True,0.011011837723038308,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",full_image,2,0.8391140699386597,0.21691484306049016,True,False,0.011954370665937283,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",agriclip_auto,0,0.8111301064491272,0.21222171259217443,False,False,0.012332017360384856,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",agriclip_auto,1,0.7983115315437317,0.25403554279927065,False,True,0.011011837723038308,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",agriclip_auto,2,0.8391140699386597,0.21691484306049016,True,False,0.011954370665937283,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",gt_oracle,0,0.8111100196838379,0.2121915027569518,False,False,0.012327542516049105,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",gt_oracle,1,0.79828941822052,0.2539878258467562,False,True,0.011008117065950155,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220520_Maize_005.png",gt_oracle,2,0.8390864133834839,0.21683338614040645,True,False,0.011949996379901212,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",full_image,0,0.8023058772087097,0.1904605791416801,False,False,0.02482412353385999,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",full_image,1,0.8460100293159485,0.20503453779282974,False,False,0.012946126896529532,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",full_image,2,0.8710983395576477,0.21466915438029788,True,True,0.021104522307853202,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",agriclip_auto,0,0.8023058772087097,0.1904605791416801,False,False,0.02482412353385999,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",agriclip_auto,1,0.8460100293159485,0.20503453779282974,False,False,0.012946126896529532,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",agriclip_auto,2,0.8710983395576477,0.21466915438029788,True,True,0.021104522307853202,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",gt_oracle,0,0.8030186295509338,0.18985447719848403,False,False,0.024696565330716135,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",gt_oracle,1,0.8451857566833496,0.20442778417909874,False,False,0.012856177497465931,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220523_Maize_048.png",gt_oracle,2,0.8708047866821289,0.2140849817624738,True,True,0.02098631602657957,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",full_image,0,0.3452930152416229,0.0027979854504756574,False,True,0.0022507927118600593,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",full_image,1,0.8065302968025208,0.00016149870801033592,True,False,0.0008395511920334462,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",full_image,2,0.8049907088279724,0.0021996032088329163,False,False,0.0016164829562942443,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",agriclip_auto,0,0.3452930152416229,0.0027979854504756574,False,True,0.0022507927118600593,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",agriclip_auto,1,0.8065302968025208,0.00016149870801033592,True,False,0.0008395511920334462,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",agriclip_auto,2,0.8049907088279724,0.0021996032088329163,False,False,0.0016164829562942443,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",gt_oracle,0,0.378690630197525,0.0021780217802178023,False,True,0.00207746213578537,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",gt_oracle,1,0.8004401326179504,0.0,False,False,0.00080563650995178,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210629_A1_1_029.png",gt_oracle,2,0.803800106048584,8.894423196655697e-05,True,False,0.0015414398340515031,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",full_image,0,0.021802274510264397,0.187891728460452,False,False,0.0025008346338873423,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",full_image,1,0.8104036450386047,0.16894301582219082,True,False,0.002321690023007739,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",full_image,2,0.7391359806060791,0.19845110795656964,False,True,0.0026696720190497645,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",agriclip_auto,0,0.021802274510264397,0.187891728460452,False,False,0.0025008346338873423,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",agriclip_auto,1,0.8104036450386047,0.16894301582219082,True,False,0.002321690023007739,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",agriclip_auto,2,0.7391359806060791,0.19845110795656964,False,True,0.0026696720190497645,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",gt_oracle,0,0.027039097622036934,0.1809570453811819,False,False,0.0023444161987353786,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",gt_oracle,1,0.8065609931945801,0.15990422680527985,True,False,0.0020760763760397727,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Loew_20220505_Maize_012.png",gt_oracle,2,0.7355546355247498,0.1910067582152998,False,True,0.002494549740157354,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",full_image,0,0.4598233103752136,0.01693759236103217,False,False,0.000788578186089167,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",full_image,1,0.7300226092338562,0.0581109810966264,False,True,0.0008680695219860666,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",full_image,2,0.7837142944335938,0.043313092638568994,True,False,0.0011473701993467732,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",agriclip_auto,0,0.4598233103752136,0.01693759236103217,False,False,0.000788578186089167,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",agriclip_auto,1,0.7300226092338562,0.0581109810966264,False,True,0.0008680695219860666,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",agriclip_auto,2,0.7837142944335938,0.043313092638568994,True,False,0.0011473701993467732,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",gt_oracle,0,0.46755895018577576,0.016110717988381852,False,False,0.0007445336508294048,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",gt_oracle,1,0.7313622236251831,0.05774137236471062,False,True,0.0008083881711260921,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/Platte_20220516_Maize_004.png",gt_oracle,2,0.7828608751296997,0.042070806872520475,True,False,0.0011133814940549934,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",full_image,0,0.04380368813872337,0.2960440679884548,False,False,0.0021305789744662366,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",full_image,1,0.8043615818023682,0.390922175388095,True,False,0.0013973078532009719,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",full_image,2,0.7717200517654419,0.40392023269830457,False,True,0.0013700062748379,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",agriclip_auto,0,0.04380368813872337,0.2960440679884548,False,False,0.0021305789744662366,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",agriclip_auto,1,0.8043615818023682,0.390922175388095,True,False,0.0013973078532009719,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",agriclip_auto,2,0.7717200517654419,0.40392023269830457,False,True,0.0013700062748379,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",gt_oracle,0,0.043149545788764954,0.31105520670324666,False,False,0.00200407663346902,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",gt_oracle,1,0.806787371635437,0.396706547634631,True,False,0.00135869346612392,False
+EWI1S,"/home/zahranadeem/thesis/EWIS1/EWIS1 Maize, Sorghum & Weed Dataset/images/images/img_20210903_D1_3_014.png",gt_oracle,2,0.7724212408065796,0.40627397042875657,False,True,0.0013494923817032162,False
